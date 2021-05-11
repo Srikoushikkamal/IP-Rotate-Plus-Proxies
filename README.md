@@ -2,6 +2,6 @@
 
 Bundle Of IP Address For Scraping
 
-##IP Rotations
+## 1.) IP Rotations
 
-##Proxy List
+## 2.)Proxy List
